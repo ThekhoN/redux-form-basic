@@ -1,1 +1,1 @@
-### Basic redux-form implementation
+### Basic redux-form implementation + validation
