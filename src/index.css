@@ -9,7 +9,13 @@ body {
   box-sizing: border-box;
 }
 
-label {
+.submitted {
+  padding: 1em;
+  background: orange;
+  margin-bottom: 1em;
+}
+
+.form-field {
   display: block;
   margin-bottom: 1em;
 }
